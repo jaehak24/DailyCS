@@ -5,8 +5,6 @@ public class ABCheck {
 
     }
     public static boolean ABCheck(String str){
-        //a로 시작해서 b로 끝나는 길이 5의 문자열 혹은
-        //b로 시작해서 s로 끝나는 길이 5의 문자열 혹은
 
         String[] arr=str.split("");
         //start index부터 4칸 뒤의 문자열이 맞는지 검사하는 방식

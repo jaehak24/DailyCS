@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertDoubleSpaceToSingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+    <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="9th problem solved">
+      <change afterPath="$PROJECT_DIR$/src/InsertDash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveExtreme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RemoveExtreme">
     <configuration name="ABCheck" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ABCheck" />
       <module name="DailyCS" />
@@ -54,6 +45,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveExtreme" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveExtreme" />
+      <module name="DailyCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ABCheck" />
+      <item itemvalue="Application.RemoveExtreme" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,6 +66,21 @@
       <option name="presentableId" value="Default" />
       <updated>1663632480883</updated>
     </task>
+    <task id="LOCAL-00001" summary="9th problem solved">
+      <created>1664239187215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664239187215</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9th problem solved">
+      <created>1664239262658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664239262658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9th problem solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th problem solved" />
   </component>
 </project>

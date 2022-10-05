@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="9th problem solved">
-      <change afterPath="$PROJECT_DIR$/src/reverseVertically.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseArr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+    <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/morethanSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664239262658</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="9th problem solved">
+      <created>1664864225470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664864225470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

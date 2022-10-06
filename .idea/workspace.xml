@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/morethanSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/morethanSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/morethanSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.reverseVertically">
+  <component name="RunManager" selected="Application.morethanSum">
     <configuration name="ABCheck" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ABCheck" />
       <module name="DailyCS" />
@@ -52,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseVertically" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseVertically" />
+    <configuration name="morethanSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="morethanSum" />
       <module name="DailyCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,11 +63,11 @@
     <list>
       <item itemvalue="Application.ABCheck" />
       <item itemvalue="Application.RemoveExtreme" />
-      <item itemvalue="Application.reverseVertically" />
+      <item itemvalue="Application.morethanSum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.reverseVertically" />
+        <item itemvalue="Application.morethanSum" />
       </list>
     </recent_temporary>
   </component>

@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Isogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
+    <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="9th problem solved">
+      <change afterPath="$PROJECT_DIR$/src/InsertDash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveExtreme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +37,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Isogram">
+  <component name="RunManager" selected="Application.RemoveExtreme">
     <configuration name="ABCheck" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ABCheck" />
-      <module name="DailyCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Isogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Isogram" />
       <module name="DailyCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,13 +55,7 @@
     <list>
       <item itemvalue="Application.ABCheck" />
       <item itemvalue="Application.RemoveExtreme" />
-      <item itemvalue="Application.Isogram" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Isogram" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -95,21 +80,7 @@
       <option name="project" value="LOCAL" />
       <updated>1664239262658</updated>
     </task>
-    <task id="LOCAL-00003" summary="9th problem solved">
-      <created>1664864225470</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1664864225470</updated>
-    </task>
-    <task id="LOCAL-00004" summary="9th problem solved">
-      <created>1665062880289</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1665062880289</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

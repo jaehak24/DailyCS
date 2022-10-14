@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompressString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cipher">
+  <component name="RunManager" selected="Application.CompressString">
     <configuration name="ABCheck" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ABCheck" />
       <module name="DailyCS" />
@@ -45,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cipher" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cipher" />
+    <configuration name="CompressString" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompressString" />
       <module name="DailyCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,7 +68,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Cipher" />
+      <item itemvalue="Application.CompressString" />
       <item itemvalue="Application.ABCheck" />
       <item itemvalue="Application.RemoveExtreme" />
       <item itemvalue="Application.Isogram" />
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665658464069</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Cipher 문제 해결 완료&#10;else if 추가 안해서 문자열에 추가로 인식">
+      <created>1665658966681</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665658966681</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="9th problem solved" />
     <MESSAGE value="Cipher 문제 해결중" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cipher 문제 해결중" />
+    <MESSAGE value="Cipher 문제 해결 완료&#10;else if 추가 안해서 문자열에 추가로 인식" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cipher 문제 해결 완료&#10;else if 추가 안해서 문자열에 추가로 인식" />
   </component>
 </project>

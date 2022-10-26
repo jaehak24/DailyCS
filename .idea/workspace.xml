@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/treeDFS.java" afterDir="false" />
+    <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="treeDFS.java">
+      <change afterPath="$PROJECT_DIR$/src/treeBFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jaehak24 &lt;65396939+jaehak24@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -158,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666086199581</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="treeDFS.java">
+      <created>1666743673711</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666743673711</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +192,7 @@
     <MESSAGE value="곱의 최댓값 음수 포함 복습 할것" />
     <MESSAGE value="버블정렬" />
     <MESSAGE value="effective Pow.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="effective Pow.java" />
+    <MESSAGE value="treeDFS.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="treeDFS.java" />
   </component>
 </project>

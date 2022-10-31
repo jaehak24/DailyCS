@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +37,20 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tiling">
+  <component name="RunManager" selected="Application.BalancedBrackets">
     <configuration name="ABCheck" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ABCheck" />
+      <module name="DailyCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BalancedBrackets" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BalancedBrackets" />
       <module name="DailyCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,16 +70,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tiling" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiling" />
-      <module name="DailyCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.tiling" />
       <item itemvalue="Application.ABCheck" />
+      <item itemvalue="Application.BalancedBrackets" />
       <item itemvalue="Application.RemoveExtreme" />
       <item itemvalue="Application.Isogram" />
     </list>
@@ -165,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666661029895</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="tilting.java">
+      <created>1666849463056</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666849463056</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +198,7 @@
     <MESSAGE value="버블정렬" />
     <MESSAGE value="effective Pow.java" />
     <MESSAGE value="treeDFS.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="treeDFS.java" />
+    <MESSAGE value="tilting.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="tilting.java" />
   </component>
 </project>

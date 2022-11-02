@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab17188c-0279-43d2-abda-e19f6cfa70ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BalancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleArraysearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orderOfPresentation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +40,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BalancedBrackets">
+  <component name="RunManager" selected="Application.orderOfPresentation">
     <configuration name="ABCheck" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ABCheck" />
-      <module name="DailyCS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BalancedBrackets" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BalancedBrackets" />
       <module name="DailyCS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,9 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="orderOfPresentation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="orderOfPresentation" />
+      <module name="DailyCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ABCheck" />
-      <item itemvalue="Application.BalancedBrackets" />
+      <item itemvalue="Application.orderOfPresentation" />
       <item itemvalue="Application.RemoveExtreme" />
       <item itemvalue="Application.Isogram" />
     </list>
@@ -175,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666849463056</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="BalancedBrackets.java unsolved">
+      <created>1667190643059</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667190643059</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +205,7 @@
     <MESSAGE value="effective Pow.java" />
     <MESSAGE value="treeDFS.java" />
     <MESSAGE value="tilting.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="tilting.java" />
+    <MESSAGE value="BalancedBrackets.java unsolved" />
+    <option name="LAST_COMMIT_MESSAGE" value="BalancedBrackets.java unsolved" />
   </component>
 </project>
